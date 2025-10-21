@@ -51,7 +51,7 @@ Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](http
 
 ## G
 
-
+*gołomp* - shitposter/troll, bo gołompie nic nie robio tylko srajo
 * *gyńś* – ktoś, kto nie zna poleńki
 * *gęsi* - inaczej fedi (np. na gęsi, tj. na fedi)
 
