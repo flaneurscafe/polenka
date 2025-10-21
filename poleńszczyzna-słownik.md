@@ -2,7 +2,7 @@
 
 Żargon używany przez społeczność poliwersum (polska społeczność fediwersum). Żargon znany jest również pod innymi nazwami tj. poleńka lub fedigadka
 
-Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi]([https://pl.fediverse.pl/@kopimi](https://mstdn.social/@kopimi))).
+Propozycję zmian i pytania proszę kierować do Budige Perruche ([@kopimi](https://mstdn.social/@kopimi)).
 
 
 ## A
