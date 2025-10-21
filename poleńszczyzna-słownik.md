@@ -7,7 +7,7 @@ Propozycję zmian i pytania proszę kierować do [@kopimi](https://mstdn.social/
 
 ## A
 
-* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię. **Uwaga**: Należy zaznaczyć, że w przeciwnieństwie do *trolla* w j. polskim, arnold może mieć również pozytywne znaczenie.,
+* *arnold* – to ktoś, kto arnolduje, np. na forum, czacie lub w dyskusji w serwisie społecznościowym, tj. to umieszcza wpisy i sotsuje zabiegi mające wywołać burzliwą dyskusję, zwłaszcza kłótnię. **Uwaga**: Należy zaznaczyć, że w przeciwnieństwie do *trolla* w j. polskim lub *gołompia* w poleńszczyźnie, arnold może mieć również pozytywne znaczenie.,
 * *atom* – zablokowanie użytkownika lub zawieszenie całej instancji (od opcji atomowej, bomby atomowej, tj. ostatecznej broni)
 
 ## Ą
